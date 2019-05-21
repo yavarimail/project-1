@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
-  <Transactions>
-    <Transaction>2019/05/21 22:56:36.271,=C:\Users\sadeghian\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2019/05/21 22:57:05.073,D:\git\p1\Unit1.pas=C:\Users\sadeghian\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2019/05/21 22:57:05.073,D:\git\p1\Unit1.dfm=C:\Users\sadeghian\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2019/05/21 22:57:06.009,D:\git\p1\Project1.dproj=C:\Users\sadeghian\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+	<Transactions>
+    <Transaction>2019/05/21 22:56:36.000.271,=C:\Users\sadeghian\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/05/21 22:57:05.000.073,C:\Users\sadeghian\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\git\p1\Unit1.pas</Transaction>
+    <Transaction>2019/05/21 22:57:05.000.073,C:\Users\sadeghian\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\git\p1\Unit1.dfm</Transaction>
+    <Transaction>2019/05/21 22:57:06.000.009,C:\Users\sadeghian\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\git\p1\Project1.dproj</Transaction>
   </Transactions>
 </BorlandProject>
